@@ -4,7 +4,7 @@ st.subheader("How this all began")
 st.markdown("""As a past Commodities Risk Analyst for the (then) New South Wales Department of Agriculture, I worked with farmers state-wide to hedge their produce price risk. Two decades on I was asked by a friend to build
 a blockchain to monitor the export conditions and timing for a group of NSW oyster lease farmers who were looking at getting
 fresh oysters to markets in Asia within the 48 hours time bracket in mint condition. Beneath is my simple solution - which you
-can run by clicking the nearby button.
+can run by clicking the button at the bottom "run blockchain".
 """)
 
 
